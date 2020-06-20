@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1dd9d222-27d8-440a-9232-c2019a21df2a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1dPexihwMJjAR0tu1mHo0KtNYJ2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.SimpleBot">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems-Digits_from_0_to_9_in_a_single_line_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleBot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bot.SimpleBot" />
+      <module name="Simple_Chatty_Bot-task_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SimpleBot" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1dd9d222-27d8-440a-9232-c2019a21df2a" name="Default Changelist" comment="" />
+      <created>1592331404106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592331404106</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="539" y="262" key="Github.ShareDialog" timestamp="1592609782924">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="539" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1592609782924" />
+    <state x="224" y="63" key="Github.UntrackedFilesDialog" timestamp="1592609805777">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="224" y="63" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1592609805777" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1592609251001">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592609251001" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1592609251001">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592609251001" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1592609251000">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592609251000" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1592609251001">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592609251001" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1592350145343">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592350145343" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1592350145342">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1592350145342" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1592350145342">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1592350145342" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1592350145342">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1592350145342" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1592610552069">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1592610552069" />
+    <state x="413" y="114" key="extract.method.dialog" timestamp="1592347857956">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="114" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1592347857956" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1592609521478">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1592609521478" />
+  </component>
+</project>
